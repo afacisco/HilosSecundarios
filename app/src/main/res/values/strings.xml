@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hilos Secundarios</string>
+    <string name="toglebtn_off">Inciar Hilo Secundario</string>
+    <string name="toglebtn_on">Reiniciar Progreso</string>
+</resources>
